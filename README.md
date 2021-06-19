@@ -1,5 +1,7 @@
 # EnglishToHindi Translator  
 
+![](enghin translator.gif)
+
 ## About  
 
 Deep learning techniques has revolutionized machine translation task. And we cannot deny impact made by attention mechanism in the journey of machine translation. First attention mechanism is proposed by  Bahdanau et al in 2015, from there, it was never look-back. Now we have BERT,GPT that can produce relaible and sustainable machine translator.  
