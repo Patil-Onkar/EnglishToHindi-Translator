@@ -1,6 +1,8 @@
 # EnglishToHindi Translator  
 
-![](enghin translator.gif)
+![](enghinTranslator.gif)  
+
+
 
 ## About  
 
