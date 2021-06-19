@@ -1,6 +1,6 @@
 # EnglishToHindi Translator  
 
-![](enghinTranslator.gif)  
+<img src="enghinTranslator.gif" width="250" height="500"/> 
 
 
 
